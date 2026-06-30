@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Surya
 
-<!--
-**Zusu12/Zusu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 A curious learner passionate about technology and problem-solving  
+🎓 Student | 💻 Aspiring Developer  
+🚀 Always exploring new tools and ideas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python, Java, C  
+- **Web:** HTML, CSS, JavaScript  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 What I'm Working On
+- 🔭 Improving my coding and problem-solving skills  
+- 🌱 Learning Data Structures, Algorithms & Web Development  
+- 🤝 Open to collaborations on beginner-friendly projects  
+
+---
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn:.  
+- 📧 Email: svbhatla22@email.com  
+
+---
+
+## ⚡ Fun Fact
+I believe consistency beats talent 🚀
