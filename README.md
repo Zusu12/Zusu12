@@ -16,9 +16,8 @@
   <b>🎓 Student & Aspiring Full-Stack Developer | 🚀 Always Exploring New Tools & Ideas</b>
 </p>
 
-<h3 align="center">
-  $$ \color{#8A2BE2}{\text{Full-Stack Developer}} $$
-</h3>
+$$\color{#8A2BE2}{\textsf{Full-Stack Developer}}$$
+
 
 ---
 
