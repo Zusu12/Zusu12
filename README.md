@@ -13,10 +13,11 @@
 </p>
 
 <p align="center">
-  <b>🎓 Student & Aspiring Full-Stack Developer | 🚀 Always Exploring New Tools & Ideas</b>
+  <b>🎓 Student & Aspiring Full-Stack Developer | 🤖 AI Enthusiast | 🚀 Always Exploring New Tools & Ideas</b>
+
 </p>
 
-$$\color{#8A2BE2}{\textsf{Full-Stack Developer}}$$
+$$\color{#8A2BE2}{\textsf{Full-Stack Developer|AI Enthusiast}}$$
 
 
 ---
