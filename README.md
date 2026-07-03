@@ -1,7 +1,7 @@
 <h1 align="center">नमस्ते (Namaste), I'm Surya 👋</h1>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/surya-varahabhatla/)" target="_blank">
+  <a href="https://linkedin.com/in/surya-varahabhatla/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:svbhatla22@email.com">
@@ -17,7 +17,7 @@
 
 </p>
 
-$$\color{#8A2BE2}{\textsf{Full-Stack Developer|AI Enthusiast}}$$
+$$\color{#8A2BE2}{\textsf{Full-Stack Developer}}$$
 
 
 ---
