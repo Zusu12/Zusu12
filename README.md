@@ -1,7 +1,7 @@
-# Hi 👋, I'm Surya
+<h1 align="center">नमस्ते (Namaste), I'm Surya 👋</h1>
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+<p align="center">
+  <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/surya-varahabhatla/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:svbhatla22@email.com">
@@ -12,8 +12,13 @@
   </a>
 </p>
 
-### 🎓 Student & Aspiring Full-Stack Developer | 🚀 Always Exploring New Tools & Ideas
-<h3 align="left"><b>Full-Stack Developer</b></h3>
+<p align="center">
+  <b>🎓 Student & Aspiring Full-Stack Developer | 🚀 Always Exploring New Tools & Ideas</b>
+</p>
+
+<h3 align="center">
+  $$ \color{#8A2BE2}{\text{Full-Stack Developer}} $$
+</h3>
 
 ---
 
@@ -74,7 +79,7 @@ I am a curious learner passionate about technology, software engineering, and cr
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zusu12&show_icons=true&theme=radical&hide_border=true" alt="Surya's GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusu12&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%">
 </p>
