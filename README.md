@@ -85,7 +85,8 @@ I am a curious learner passionate about technology, software engineering, and cr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zusu12&show_icons=true&theme=radical&hide_border=true" alt="Surya's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zusu12&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zusu12&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%">
+
 </p>
 
 ---
