@@ -1,7 +1,7 @@
 <h1 align="center">नमस्ते (Namaste), I'm Surya 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/surya-varahabhatla/" target="_blank">
+  <a href="https://www.linkedin.com/in/surya-varahabhatla/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:svbhatla22@email.com">
@@ -17,7 +17,11 @@
 
 </p>
 
-$$\color{#8A2BE2}{\textsf{Full-Stack Developer}}$$
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%7C+Java+%7C+JavaScript;AI+Enthusiast+%7C+Gemini+API;Building+Intelligent+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
 
 ---
