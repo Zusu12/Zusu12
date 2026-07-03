@@ -76,16 +76,20 @@ I am a curious learner passionate about technology, software engineering, and cr
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📓 **[NoteGenius](https://github.com/Zusu12/NoteGenius)** | AI-powered next-generation note-taking application. Features smart summary generation, automated categorization, and intelligent search capabilities. | Next.js, React, Node.js, Gemini API, Tailwind CSS |
-| ⚡ **[Gemini Custom Skills](https://github.com/Zusu12/Gemini-custom-skills)** | Custom extension skills for Gemini AI / Antigravity coding assistants, featuring an automated web scrapper (`research-harvester`) and a full-stack builder assistant. | Markdown, JSON, Git |
+| 📓 **[NoteGenius](https://github.com/Zusu12/NoteGenius)** | AI-powered next-generation note-taking application. Features smart summary generation, automated categorization, and intelligent search. | Next.js, React, Node.js, Gemini API, Tailwind CSS |
+| 📈 **[Student Performance Predictor](https://github.com/Zusu12/Student_Performance_Predictor.)** | A machine learning project designed to analyze and predict student performance metrics based on historical and academic data. | Python, Jupyter Notebook, Scikit-Learn, Pandas |
+| ⚡ **[Gemini Custom Skills](https://github.com/Zusu12/Gemini-custom-skills)** | Custom extension skills for Gemini AI / Antigravity coding assistants, featuring an automated web scrapper and a full-stack builder. | Markdown, JSON, Git |
+| 🏫 **[Semester 3-1 Tracker](https://github.com/Zusu12/sem-3-1-tracker)** | A web-based semester academic tracker to organize course grades, semester progress, and GPA mapping. | HTML, CSS, JavaScript |
+| 🗼 **[Paris Travel Guide](https://github.com/Zusu12/paris-travel-guide)** | A Python-based interactive guide and travel organizer for planning trips to Paris. | Python |
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zusu12&show_icons=true&theme=radical&hide_border=true" alt="Surya's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zusu12&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zusu12&theme=radical" alt="Surya's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zusu12&theme=radical" alt="Surya's Streak Stats" width="48%">
 
 </p>
 
