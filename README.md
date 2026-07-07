@@ -31,7 +31,7 @@
 I am a curious learner passionate about technology, software engineering, and creative problem-solving. I specialize in building web applications and creating custom automation workflows to optimize developer experiences.
 
 - ⚙️ **Core Capabilities**: Full-stack web development, AI integration (Gemini API), scripting & automation, and clean database design.
-- 🛠️ **Currently Building**: **NoteGenius** (an AI-powered note-taking ecosystem) and maintaining **Gemini Custom Skills**.
+- 🛠️ **Currently Building**: **RAG-Agent** (an AI-powered Retrieval-Augmented Generation system) and maintaining **Gemini Custom Skills**.
 - 📚 **Currently Learning**: Advanced Data Structures, Algorithms, and Modern Web Architectures.
 - 🤝 **Collaboration**: Open to collaborating on innovative open-source projects and developer tools!
 
@@ -76,7 +76,7 @@ I am a curious learner passionate about technology, software engineering, and cr
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📓 **[NoteGenius](https://github.com/Zusu12/NoteGenius)** | AI-powered next-generation note-taking application. Features smart summary generation, automated categorization, and intelligent search. | Next.js, React, Node.js, Gemini API, Tailwind CSS |
+| 🤖 **[RAG-Agent](https://github.com/Zusu12/RAG-Agent)** | AI-powered Retrieval-Augmented Generation agent with a Flask web UI. Features document ingestion, semantic search via ChromaDB, and conversational memory. | Python, Flask, ChromaDB, Hugging Face, LangChain |
 | 📈 **[Student Performance Predictor](https://github.com/Zusu12/Student_Performance_Predictor.)** | A machine learning project designed to analyze and predict student performance metrics based on historical and academic data. | Python, Jupyter Notebook, Scikit-Learn, Pandas |
 | ⚡ **[Gemini Custom Skills](https://github.com/Zusu12/Gemini-custom-skills)** | Custom extension skills for Gemini AI / Antigravity coding assistants, featuring an automated web scrapper and a full-stack builder. | Markdown, JSON, Git |
 | 🏫 **[Semester 3-1 Tracker](https://github.com/Zusu12/sem-3-1-tracker)** | A web-based semester academic tracker to organize course grades, semester progress, and GPA mapping. | HTML, CSS, JavaScript |
