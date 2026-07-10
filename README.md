@@ -96,4 +96,4 @@ I am a curious learner passionate about technology, software engineering, and cr
 ---
 
 ## 💡 Fun Fact
-*I'm teaching AI tools how to write custom skills to build more apps for me!* 🤖
+*I'm teaching AI tools how to write custom skills to build more apps for me!*  🤖
