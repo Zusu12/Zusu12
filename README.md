@@ -82,7 +82,6 @@ I am a curious learner passionate about technology, software engineering, and cr
 | 🏫 **[Semester 3-1 Tracker](https://github.com/Zusu12/sem-3-1-tracker)** | A web-based semester academic tracker to organize course grades, semester progress, and GPA mapping. | HTML, CSS, JavaScript |
 | 🗼 **[Paris Travel Guide](https://github.com/Zusu12/paris-travel-guide)** | A Python-based interactive guide and travel organizer for planning trips to Paris. | Python |
 
-
 ---
 
 ## 📊 GitHub Stats
